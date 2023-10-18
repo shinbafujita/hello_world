@@ -1,6 +1,6 @@
 # hello_world
 ~
-**
+*
 ## brtestで行を追加した
 あああii
 ## hell0_world
