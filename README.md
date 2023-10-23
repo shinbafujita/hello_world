@@ -2,7 +2,7 @@
 ~
 *
 ## brtestで行を追加した
-あああii
+あああiiuu
 ## hell0_world
 
 - りんご
